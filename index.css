@@ -1,0 +1,131 @@
+.x{
+    width: 970px;
+    margin: 0 auto;
+}
+.top{
+    height: 50px;
+    background-color: #219ED9;
+    margin: 25px auto;
+}
+.t_center{
+    height: 26px;
+}
+.t_center_l{
+
+}
+.t_center_l li{
+    float: left;
+}
+.t_center_l li a{
+    display: inline-block;
+    line-height: 26px;
+    padding: 10px 15px;
+
+}
+.t_center_l img{
+    margin-right: 65px;
+}
+.container .home_quote{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0f63a3;
+    margin: 50px 0;
+}
+.container .home_big_picture{
+   margin: 25px 0;
+}
+.container .home_prea{
+    height: 374px;
+    margin-bottom: 50px;
+}
+.container .home_prea .home_prea_l{
+    width: 33.33333333%;
+    text-align: center;
+}
+.container .home_prea .zhongzi{
+    color: #219ed9;
+    font-size: 300%;
+    font-weight: 500;
+}
+.container .home_prea .zhongzi_money{
+    color: #ff8502;
+    font-size: 200%;
+    font-weight: 500;
+}
+.container .home_prea img{
+    margin: 20px 0;
+}
+.container .home_prea .text{
+    color: gray;
+    font-size: 80%;
+    margin: 5px 0;
+}
+.container .sideproject .touzi{
+    width: 33.33333333%;
+    text-align: center;
+}
+.container .sideproject .touzi img{
+    margin: 20px 0;
+}
+.container .sideproject .touzi .touzi_tiaokuan a{
+    color: #337ab7;
+    font-size: 200%;
+    font-weight: 500;
+    /*margin-bottom: 10px;*/
+}
+.container .sideproject .touzi .touzi_tiaokuan a:hover{
+    color: #23527c;
+    text-decoration: underline;
+}
+.container .sideproject .touzi .touzi_text {
+    color: gray;
+    font-size: 80%;
+    margin: 5px 0;
+}
+.container .tea{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.container .tea .tea_text a{
+    color:#337ab7;
+}
+.container .tea .tea_text a:hover{
+    color:  #23527c;
+    /*text-decoration: underline;*/
+    border-bottom: 3px solid;
+}
+
+.container .tea .tea_text{
+    color: #219ed9;
+    text-align: center;
+    font-size: 150%;
+    font-weight: 500;
+}
+.container .home_picture_l{
+    width: 33.33333333%;
+    text-align: center;
+}
+.container .home_picture .home_picture_l img{
+    width: 300px;
+}
+.container .home_picture .home_picture_l a{
+    color: gray;
+    font-size: 80%;
+    margin: 5px 0;
+}
+.container .home_picture .home_picture_l a:hover{
+    text-decoration: underline;
+}
+.footer{
+    background-color: #F7F7F7;
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px 0;
+    font-size: 12px;
+    color: #949494;
+    /*height: 105px;*/
+}
+.footer .commitment{
+    margin-bottom: 10px;
+}
